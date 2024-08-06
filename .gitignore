@@ -20,3 +20,4 @@ assets/
 core
 **.log
 *.jsonl
+.idea/*
